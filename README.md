@@ -1,4 +1,4 @@
-# SISTEMAS EMBEBIDOS 1 IMT-222
+# SISTEMAS EMBEBIDOS 1 [IMT-222]
 
 ## DESCRIPCION
 El repositorio creado estará enfocado en almacenar los diferentes códigos que se abordarán  
