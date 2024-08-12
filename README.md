@@ -16,5 +16,5 @@ en git hub nos permitira realizar unn control de versiones lo cual es más profe
 4. clonar con el comando git clone ***enlace copiado***
 
 ## ¿QUÉ ES UN SISTEMA EMBEBIDO?
-> Un sistema embebido es un conjunto de elementos electrónicos, es basado en microcontroladores  
-que son desarrollados para realizar una tarea en específico.
+> Un sistema embebido es un conjunto de elementos electrónicos, está basado en microcontroladores  
+y es desarrollado e implementado para realizar una tarea en específico.
