@@ -6,7 +6,7 @@ en la asignatura de sistemas embebidos a lo largo del semestre, el uso de un rep
 en git hub nos permitira realizar unn control de versiones lo cual es más profesional.
 
 ## DATOS PERSONALES
-**NOMBRE:** Kenny Daniel Serrudo Borja
+**NOMBRE:** Kenny Daniel Serrudo Borja  
 **ASIGNATURA:** SISTEMAS EMBEBIDOS 1
 
 ## INSTALACIÓN
