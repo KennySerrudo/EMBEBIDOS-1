@@ -10,6 +10,4 @@ void loop() {
   // put your main code here, to run repeatedly:
 digitalWrite(LED, !digitalWrite(LED));
 delay(time);
-
-
 }
