@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#Proteus Backups & temp Files
+Project Backups/
