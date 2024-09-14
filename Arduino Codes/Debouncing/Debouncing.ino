@@ -1,4 +1,4 @@
-#define BUTTON  7
+#define BUTTON  3
 #define BR   9600
 
 unsigned long last_debounce_time = 0;
