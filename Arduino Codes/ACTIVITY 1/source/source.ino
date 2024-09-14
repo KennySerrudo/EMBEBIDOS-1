@@ -6,7 +6,6 @@ unsigned int volum;
 volatile unsigned long lasttime=0;
 volatile unsigned int debounceDelay = 80;
 
-
 void setup() {
 pinMode(B1,INPUT);
 pinMode(B2,INPUT);
@@ -15,6 +14,8 @@ attachInterrupt(digitalPinToInterrupt(B2),Bajada, FALLING);
 Serial.begin(BAUDRATE);
 Serial.print("Volumen es: ");
 Serial.println(EEPROM.read(0));
+  
+
 }
 
 void loop() {
